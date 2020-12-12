@@ -1,5 +1,35 @@
-### Hi there 👋
+# Hi there 👋, I am Arun Pratap Singh  [![GitHub arun-pratap](https://img.shields.io/github/followers/arun-pratap?label=follow&style=social)](https://github.com/arun-pratap)
 
+  
+ 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ap-singh/)   [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/de_arun_)   [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arun-pratap)   
+
+
+- 🎯 I'm Practicing and Building Web Applications from Noida, India
+- 🔭 I’m currently working on my own blog to learn javascript.
+- 💻 I don't love to code but what it does, is absolutely amazing
+- 🔬 I'm a postgraduate in M.Tech (Electronics and Communication Engineering)
+- 🎓 I graduated in B.Tech (Electronics and Communication Engineering)
+- 🎓 I completed High School in Science.
+- 💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+- 📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+<br><br>
+<hr>
+<br>
+
+![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arun-pratap&theme=highcontrast&show_icons=true)
+
+<br>
+<hr>
+<br>
+<p align="center">
+  <img style="text-align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+</p>
+ <p>
+  <em><b>I know it is so common but I really love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</p>
+ <br><br>
+<h4 align="center"><a href=https://github.com/arun-pratap?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 <!--
 **arun-pratap/arun-pratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
