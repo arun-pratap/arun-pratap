@@ -24,7 +24,6 @@
 ![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arun-pratap&theme=nightowl&show_icons=true)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-pratap&layout=compact&theme=material-palenight)
 
-<hr>
 <br>
 <p align="center">
   <img style="text-align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
