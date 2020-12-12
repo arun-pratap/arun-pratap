@@ -21,7 +21,7 @@
 <hr>
 <br>
 
-![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arun-pratap&theme=highcontrast&show_icons=true)
+![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arun-pratap&theme=nightowl&show_icons=true)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-pratap&layout=compact&theme=material-palenight)
 
 <hr>
