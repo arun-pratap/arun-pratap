@@ -32,7 +32,7 @@
   <em><b>I know it is so common but I really love connecting with different people</b> so if you want to say <b>hi, I'll be more happy to meet you!</b> 😊</em>
 </p>
  <br><br>
-<h4 align="center"><a href=https://github.com/arun-pratap?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+<h4 align="center"><a href="https://github.com/arun-pratap?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <!--
 **arun-pratap/arun-pratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
