@@ -1,8 +1,7 @@
-# Hi there 👋, I am [Arun Pratap Singh](https://resume-ce2a6.web.app/index.html)  [![GitHub arun-pratap](https://img.shields.io/github/followers/arun-pratap?label=follow&style=social)](https://github.com/arun-pratap)
+# Hi there 👋, I am [Arun Pratap Singh](https://www.linkedin.com/in/ap-singh/)
+https://visitor-badge.laobi.icu/badge?page_id=arun-pratap.repoName [![GitHub arun-pratap](https://img.shields.io/github/followers/arun-pratap?label=follow&style=social)](https://github.com/arun-pratap)
 
-  
- 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ap-singh/) &nbsp; [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/de_arun_) &nbsp; [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arun-pratap)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ap-singh/) &nbsp; [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arunp_singh) &nbsp;
 
 
 ### About me
