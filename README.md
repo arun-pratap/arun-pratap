@@ -1,11 +1,8 @@
-# Hi there 👋, I am [Arun Pratap Singh](https://www.linkedin.com/in/ap-singh/)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farun-pratap&labelColor=%235e5e5e&countColor=%231a80b9&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farun-pratap)(https://img.shields.io/github/followers/arun-pratap?label=follow&style=social)](https://github.com/arun-pratap)
+# [Learn Coding For Free](https://www.quedemy.com/blog/)
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ap-singh/) &nbsp; [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arunp_singh) &nbsp;
-
+### Hi there 👋, I am Arun Pratap Singh &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farun-pratap&labelColor=%235e5e5e&countColor=%231a80b9&style=plastic) &nbsp; ![GitHub followers](https://img.shields.io/github/followers/arun-pratap?style=social)
 
 ### About me
-- 💻 I don't love to code but what it does, is absolutely amazing
 - 🎯 I'm Practicing and Building Web Applications from Noida, India
 - 🔭 I’m currently working on my own blog about learning javascript
 - 🔬 I'm a postgraduate in M.Tech (Electronics and Communication Engineering)
@@ -13,6 +10,7 @@
 - 🎓 I completed High School in Science.
 - 💬 Ask me anything <a href="https://github.com/arun-pratap/arun-pratap/issues" title="Issues">Here</a>
 
+[Learn more about me](https://www.linkedin.com/in/ap-singh/)
 
 ### Tools, Technologies and Frameworks
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp; ![image](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000) &nbsp; ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) &nbsp; ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp; ![image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) &nbsp; ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
