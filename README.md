@@ -1,5 +1,5 @@
 # Hi there 👋, I am [Arun Pratap Singh](https://www.linkedin.com/in/ap-singh/)
-https://visitor-badge.laobi.icu/badge?page_id=arun-pratap.repoName [![GitHub arun-pratap](https://img.shields.io/github/followers/arun-pratap?label=follow&style=social)](https://github.com/arun-pratap)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farun-pratap&labelColor=%235e5e5e&countColor=%231a80b9&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farun-pratap)(https://img.shields.io/github/followers/arun-pratap?label=follow&style=social)](https://github.com/arun-pratap)
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ap-singh/) &nbsp; [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arunp_singh) &nbsp;
 
